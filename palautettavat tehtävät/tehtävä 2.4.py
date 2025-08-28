@@ -1,0 +1,6 @@
+a = float(input("anna ensimmäinen kokonaisluku: "))
+b = float(input("anna toinen kokonaisluku: "))
+c = float(input("anna kolmas kokonaisluku: "))
+print(" summa", a + b + c)
+print(" tulo", a * b * c)
+print(" keskiarvo" , (a + b + c) / 3)
